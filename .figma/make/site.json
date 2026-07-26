@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a mobile-friendly birthday wish interface featuring timeline cards and celebration designs to create personalized, engaging greetings.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
